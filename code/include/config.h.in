@@ -1,0 +1,8 @@
+// the configured options and settings for the project
+// the @VAR@ values are set in CMakeLists
+
+#ifndef CONFIG_H
+#define PROJECT_VERSION_MAJOR @amigurumi_designer_VERSION_MAJOR@
+#define PROJECT_VERSION_MINOR @amigurumi_designer_VERSION_MINOR@
+#define PROJECT_NAME "@PROJECT_NAME@"
+#endif // CONFIG_H
